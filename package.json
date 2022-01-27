@@ -1,0 +1,24 @@
+{
+  "name": "vehicledataforimpreach",
+  "version": "1.0.0",
+  "description": "vehicle data to push",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eldrin-S/vehicleDataforImpReach.git"
+  },
+  "author": "Eldrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eldrin-S/vehicleDataforImpReach/issues"
+  },
+  "homepage": "https://github.com/Eldrin-S/vehicleDataforImpReach#readme"
+}
