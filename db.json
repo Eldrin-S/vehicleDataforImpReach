@@ -1,0 +1,25 @@
+{
+	
+"vehicles": [
+	{		
+			"id":1,
+			"vehicleNumber" : "xyz",
+			"todaysKm" : 130.9,
+			"currentLat" : 23.03,
+			"currentLon" : 78.23,
+			"lastUpdatedAt" : "2021-08-18 15:30:00",
+			"addresses" : [{
+				"name" : "Address 1",
+				"lat" : 23.04,
+				"lon" : 78.03,
+				"kms" : 25.5
+			}, {
+				"name" : "Address 2",
+				"lat" : 23.04,
+				"lon" : 78.03,
+				"kms" : 20.5
+						}]
+	}
+	]
+
+}
